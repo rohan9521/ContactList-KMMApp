@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.contactlistapp.android"
-    compileSdk = 33
+    compileSdk = 34
     defaultConfig {
         applicationId = "com.example.contactlistapp.android"
         minSdk = 24
